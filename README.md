@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+It is an application where user can upload the pictures which he wants them to be printed and thes shopkeeper will receive those files and he will print thm
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
