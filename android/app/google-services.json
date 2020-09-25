@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297142429285",
+    "firebase_url": "https://print-42bdf.firebaseio.com",
+    "project_id": "print-42bdf",
+    "storage_bucket": "print-42bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297142429285:android:064de45811ff1c6c57c88c",
+        "android_client_info": {
+          "package_name": "com.example.easyprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297142429285-5ktrr57j3k9uotc12lse68esmj787p3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw78zoHl3HUIaZQWWAnFD7vqPGSoaRDE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297142429285-5ktrr57j3k9uotc12lse68esmj787p3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
